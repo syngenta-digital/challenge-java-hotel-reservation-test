@@ -12,3 +12,7 @@ or (on windows machines):
 ```
 gradlew.bat test
 ```
+
+**DO NOT change the method's name (GetCheaperHotel), changing it implies in disqualification.**
+
+**After implementing your solution, it should pass the unit tests available.**
