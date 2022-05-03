@@ -13,6 +13,6 @@ or (on windows machines):
 gradlew.bat test
 ```
 
-**DO NOT change the method's name (GetCheapestHotel), changing it implies in disqualification.**
+**DO NOT change the names of the function (GetCheapestHotel) or of the file and folder it is in, changing it implies in disqualification.** 
 
 **After implementing your solution, it should pass the unit tests available.**
