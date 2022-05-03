@@ -1,5 +1,5 @@
 public class HotelReservation {
-    public String getCheaperHotel (String input) {
-        return "Cheaper hotel name";
+    public String getCheapestHotel (String input) {
+        return "Cheapest hotel name";
     }
 }
